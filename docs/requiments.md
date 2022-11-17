@@ -22,12 +22,23 @@ Add [MetaMask extension](https://chrome.google.com/webstore/detail/metamask/nkbi
 - Click **I agree** to continue
 ![agree](https://user-images.githubusercontent.com/73097560/202358327-709680ba-0e2d-4b46-b457-b79ae0e5a251.png)
 
-- Watch this video if you are not aware about Secret Recovery Phrase
+- Watch this video if you are not aware about Secret Recovery Phrase. Just click next if you are done!
 ![tutorial](https://user-images.githubusercontent.com/73097560/202358378-0bf32497-2de5-4ed5-834e-ea3b6fded933.PNG)
 
+- Click the lock icon to reveal your secret words (recovery phrase) and save it to your notepad
+![secret_recovery](https://user-images.githubusercontent.com/73097560/202359091-6d476294-3f92-4880-9771-ab13cca936a0.PNG)
+Note: Don't forget your secret recovery phrase and don't give it to anyone
 
-- After
+- Follow the order of your secret recovery phrase by clicking the words here
 ![click_phrase](https://user-images.githubusercontent.com/73097560/202358400-9f5adf86-cfe3-42f3-b6ba-2a929a516c63.PNG)
+
+- ✔️ Congrats! You already setup your MetaMask account!
 ![done](https://user-images.githubusercontent.com/73097560/202358465-2f0d6721-533c-424b-9721-64c9f3d8a258.PNG)
 
 ## 2. Request MATIC testnet on [Polygon Faucet](https://faucet.polygon.technology/)
+
+- Go to [Polygon Faucet](https://faucet.polygon.technology/) website
+- Copy your wallet address ![copy_address](https://user-images.githubusercontent.com/73097560/202360072-fdba769a-4ef3-4a4a-8a01-c708280031fd.png)
+- Paste it on Wallet Address TextBox and click **Submit**. ![wallet_address](https://user-images.githubusercontent.com/73097560/202360123-0aacfd0b-5126-4bb5-bf2a-89a108a69665.png)
+- Click Confirm
+
