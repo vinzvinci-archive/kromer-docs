@@ -57,8 +57,8 @@ const config = {
         },
         items: [
           {
-            href: 'https://github.com/WebXDAO',
-            label: 'GitHub',
+            href: 'https://kromer-two.vercel.app/',
+            label: 'Launch App',
             position: 'right',
           },
         ],
