@@ -4,40 +4,21 @@ sidebar_position: 1
 
 # Getting Started
 
-Welcome to **Web3 Marketplace for Otaku Community** documentation.
+Welcome to **Kromer** documentation.
 
-## What you'll need
+## What is Kromer?
+Kromer is a web3 marketplace for customize otaku merchandise such as home decorations, collections, and NFT collections from your favorite creator. 
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Kromer also support [DeFi staking](https://medium.com/predict/all-about-defi-staking-4764727f6a73) which makes different from other marketplace.
 
-## Work on the documentation
+Features
+- Buy and Sell 
+- Crypto token as payment method
+- Staking
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Currently, Kromer is still on beta test. You can view the roadmap below
 
-**Run the development server:**
+## Prototype - Roadmap
 
-### Installation
-```bash
-npm install 
-```
+Our prototype roadmap can be seen on [Figma](https://www.figma.com/file/qAKHbGTc4iHLfeggCCRooT/Otaku-Web3-Marketplace?node-id=0%3A1&t=jzMKoiY10C5W0zsS-0). We will keep updating our prototype based on the user's feedback.
 
-### Start the site
-```bash
-npm start
-```
-
-## Kromer - Application
-Run Kromer app locally 
-
-### Installation
-```bash
-npm install
-```
-
-### Start the site
-```bash
-npm run dev
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
